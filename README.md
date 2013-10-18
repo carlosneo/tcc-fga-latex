@@ -1,0 +1,1 @@
+Modelo de TCC, versao latex criado para o uso da Universidade de Brasilia, Faculdade Gama - FGA. Este modelo e uma versao modificada com algumas correcoes e arquivos novos em realacao ao modelo originalmente publicado. Adptacoes realizadas por Jose Guimaras (carlos.neo@gmail.com)
